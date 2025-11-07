@@ -38,6 +38,24 @@ We are thrilled to introduce **Continue-TTS**, a fine-tuned text-to-speech model
 
 This model is based on the **Continue-1-OSS** architecture and combines the power of large language models with neural audio codecs to generate exceptionally natural speech from text.
 
+<audio controls src="https://ik.imagekit.io/svector/efd3e807-49a4-463b-af6d-4069acf7ff3a.wav"></audio>
+
+```
+The sun was setting behind the mountains, painting the sky with soft shades of orange and violet.
+She stood there quietly, breathing in the moment. <sigh>
+Sometimes, the smallest moments are the ones that change everything.
+```
+
+<audio controls src="https://ik.imagekit.io/svector/c99ff697-291a-4fb7-940a-56b523b9f286.wav?updatedAt=1762362454065"></audio>
+
+```
+<sigh>  
+Not every journey is loud.  
+Some begin quietly… inside.  
+But once they begin, they never stop.  
+We continue.
+```
+
 ### Model Specifications
 
 - **Base Architecture:** Continue-1-OSS
